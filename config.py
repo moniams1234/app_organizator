@@ -50,6 +50,6 @@ INITIAL_APPS = [
     },
 ]
 
-APP_TITLE = "Finance Apps — Interim CFO"
+APP_TITLE = "Finance Apps"
 APP_ICON = "💼"
 SESSION_TIMEOUT_MINUTES = 60
